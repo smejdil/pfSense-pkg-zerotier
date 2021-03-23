@@ -18,6 +18,10 @@ pfSense 2.5.0 package to support zerotier.
 1. Run `pkg add http://ftp.smejdil.cz/pfSense/pkg/zerotier-1.6.4.txz`
 2. Run `pkg add http://ftp.smejdil.cz/pfSense/pkg/pfSense-pkg-zerotier-0.00.1.txz`
 
+## Images
+
+![pfSense VPN Zerotier Networks](./images/pfSense_VPN_Zerotier_Networks.png)
+
 ## ToDo
 - [ ] Re-write controller functionality to match API changes
 - [ ] Interface creation
